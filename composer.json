@@ -80,7 +80,7 @@
         "fig/link-util": "1.0.0",
         "league/flysystem": "1.0.63",
         "league/flysystem-aws-s3-v3": "1.0.23",
-        "superbalist/flysystem-google-storage": "6.0.0",
+        "superbalist/flysystem-google-storage": "7.2.2",
         "stecman/symfony-console-completion": "0.10.1",
         "beberlei/doctrineextensions": "1.2.6",
         "composer/package-versions-deprecated": "^1.8"
